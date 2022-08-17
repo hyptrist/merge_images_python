@@ -1,1 +1,2 @@
-# merge_images_python
+# merge_two_images
+
